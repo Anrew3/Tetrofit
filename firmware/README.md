@@ -6,7 +6,7 @@ Each folder holds the firmware releases for one product. The TETROFIT website re
 | --- | --- |
 | `hl-headlight/` | Highland Headlight Retrofit Kit |
 | `hl-steering/` | Highland Steering Wheel Retrofit Kit |
-| `pcb/` | TETROFIT PCB |
+| `hl-led/` | Highland OEM LED Wiring Kit |
 
 ## Adding a release
 
